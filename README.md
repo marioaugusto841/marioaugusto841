@@ -23,4 +23,4 @@
   <a href="https://www.linkedin.com/in/mario-sergio-macedo-augusto-junior-3107aa180" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-![Snake animation](https://github.com/rafaballerini1111111/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/marioaugusto841/marioaugusto/blob/output/github-contribution-grid-snake.svg)

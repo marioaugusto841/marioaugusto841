@@ -1,7 +1,7 @@
 ## Olá, sou o Mário Sérgio!
 
-- Trabalhando atualmente com Ruby on rails
-- Estou estudando JavaScript
+- Trabalhando com Ruby on rails
+- Estudando JavaScript
 
 <div>
   <a href="https://github.com/marioaugusto841">

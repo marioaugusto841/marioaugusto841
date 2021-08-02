@@ -1,6 +1,6 @@
 ## Olá, sou o Mário Sérgio!
 
-- Hoje trabalho atualmente com Ruby on rails
+- Trabalhando atualmente com Ruby on rails
 - Estou estudando JavaScript
 
 <div>

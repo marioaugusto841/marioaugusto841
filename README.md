@@ -1,8 +1,5 @@
 ## Olá, sou o Mário Sérgio!
 
-- Trabalhando com Ruby on rails
-- Estudando JavaScript
-
 <div>
   <a href="https://github.com/marioaugusto841">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marioaugusto841&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
